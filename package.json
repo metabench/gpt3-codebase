@@ -1,0 +1,8 @@
+{
+    "devdependencies": {
+        "electron": "^22.0.0"
+    },
+    "dependencies": {
+        "wasm-pack": "^0.10.3"
+    }
+}
